@@ -15,18 +15,16 @@
 - Python 3.x（用于运行源代码版本）
 - 运行可执行文件版本无需额外要求
 
-## <span style="color: #3498db;">快速开始指南</span>
+## <span style="color: #3498db;">Quick Start</span>
 
-### <span style="color: #e74c3c;">选项一：运行可执行文件（推荐普通用户使用）</span>
+### <span style="color: #e74c3c;">run the executive program</span>
 
-1. 下载最新发布包
-2. 解压到目标位置
-3. 运行 `图书管理系统.exe`
-4. 打开浏览器访问 `http://localhost:5000`
+1. 运行 `app.exe`
+2. 打开浏览器访问 `http://localhost:5000`
 
-### <span style="color: #e74c3c;">选项二：运行源代码（适合开发者）</span>
+### <span style="color: #e74c3c;">python:</span>
 
-1. 确保系统已安装 Python 3.x
+1. Python 3.x
 2. 安装所需依赖：
    ```bash
    pip install -r requirements.txt
